@@ -1,0 +1,9 @@
+<?php
+funtion a(){
+
+$a="i am farooq";
+echo $a;
+
+}
+return a();
+?>
